@@ -2,7 +2,7 @@ I'm a graduate student from China 🇨🇳
 
 **About me**
 
-- 🏫 Study at [Zhejiang University](https://www.zju.edu.cn/)
+- 🏫 Studying at [Zhejiang University](https://www.zju.edu.cn/)
 
 - 📑 My major is Computer Science
 
