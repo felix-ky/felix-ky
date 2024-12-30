@@ -6,7 +6,7 @@ I'm a graduate student from China 🇨🇳
 
 - 📑 My major is Computer Science
 
-- ❤️ I love Generative model, and now working on Diffusion models
+- ❤️ I love Generative model and Perceptive model, and now working on Diffusion models and Image Matting
 
 - 💬 Ask anything [here](https://github.com/felix-ky/felix-ky/issues)
 
